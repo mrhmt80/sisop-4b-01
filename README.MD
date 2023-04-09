@@ -7,3 +7,11 @@
 | Kelas | REGULER |
 | Email | mohammadfariedrahmat@unisbablitar.ac.id |
 | Institusi | fti.unisbablitar.ac.id |
+
+## Data Diri
+
+|  |  |
+|--|--|
+| NIM | **nim** |
+| Nama Lengkap | **nama** |
+| Kelas | TI-4B |
